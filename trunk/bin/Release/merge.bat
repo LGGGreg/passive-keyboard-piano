@@ -1,0 +1,1 @@
+ILMerge.exe /out=Keyboard-Piano-v4.exe "Keyboard Background Piano.exe" "Sanford.Collections.dll" "Sanford.Multimedia.dll" "Sanford.Multimedia.Midi.dll" "Sanford.Threading.dll" "Sanford.Multimedia.Timers.dll"
