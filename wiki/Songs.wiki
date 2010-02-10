@@ -3,12 +3,11 @@
 = Introduction =
 
 Assuming you leave it at the default pitch range.. here are some songs
+(Don't play the spaces)
 
   * Darth Vader Theme
     * {{{g6gdugo,olugdug}}}
   * Warcraft 1, Human 3 Middle
-    * {{{sdrsdrsdrsrd sdrsdrsdryg
-      67u67u67u6u7 67u67u67u0o
-      ,.;,.;,.;,;. ,.;,.;,.; }}}
+    * {{{sdrsdrsdrsrd sdrsdrsdryg 67u67u67u6u7 67u67u67u0o ,.;,.;,.;,;. ,.;,.;,.; }}}
   * Warcraft 1, Human 3 Ending
     * {{{igygigdwi';ygulokigygigdwi';ygulokigy}}}
