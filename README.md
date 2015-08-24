@@ -13,3 +13,9 @@ Lots help from
 Leslie Sanford http://www.codeproject.com/KB/audio-video/MIDIToolkit.aspx 
 
 Stephen Toub http://blogs.msdn.com/toub/archive/2006/05/03/589423.aspx
+
+**Content License**
+  * [MIT License](http://opensource.org/licenses/mit-license.php)
+  
+**Code Of Conduct**
+  * Treat everyone with respect.
